@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="lib" path="C:/Users/paku0817/Music/SE Jars/lib/cglib-nodep-3.2.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/paku0817/Music/SE Jars/lib/client-combined-3.4.0-nodeps.jar"/>
+	<classpathentry kind="lib" path="C:/Users/paku0817/Music/SE Jars/lib/commons-codec-1.10.jar"/>
+	<classpathentry kind="lib" path="C:/Users/paku0817/Music/SE Jars/lib/commons-exec-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/paku0817/Music/SE Jars/lib/commons-io-2.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/paku0817/Music/SE Jars/lib/commons-lang3-3.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/paku0817/Music/SE Jars/lib/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/paku0817/Music/SE Jars/lib/cssparser-0.9.22.jar"/>
+	<classpathentry kind="lib" path="C:/Users/paku0817/Music/SE Jars/lib/gson-2.8.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/paku0817/Music/SE Jars/lib/guava-21.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/paku0817/Music/SE Jars/lib/hamcrest-core-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/paku0817/Music/SE Jars/lib/htmlunit-2.26.jar"/>
+	<classpathentry kind="lib" path="C:/Users/paku0817/Music/SE Jars/lib/htmlunit-core-js-2.26.jar"/>
+	<classpathentry kind="lib" path="C:/Users/paku0817/Music/SE Jars/lib/htmlunit-driver-2.26.jar"/>
+	<classpathentry kind="lib" path="C:/Users/paku0817/Music/SE Jars/lib/httpclient-4.5.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/paku0817/Music/SE Jars/lib/httpcore-4.4.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/paku0817/Music/SE Jars/lib/httpmime-4.5.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/paku0817/Music/SE Jars/lib/javax.servlet-api-3.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/paku0817/Music/SE Jars/lib/jetty-io-9.4.1.v20170120.jar"/>
+	<classpathentry kind="lib" path="C:/Users/paku0817/Music/SE Jars/lib/jetty-util-9.4.1.v20170120.jar"/>
+	<classpathentry kind="lib" path="C:/Users/paku0817/Music/SE Jars/client-combined-3.4.0-nodeps.jar"/>
+	<classpathentry kind="con" path="org.testng.TESTNG_CONTAINER"/>
+	<classpathentry kind="lib" path="C:/Users/paku0817/Desktop/AT/poi-bin-3.17-20170915/poi-3.17/poi-ooxml-3.17.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
